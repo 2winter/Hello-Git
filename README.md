@@ -1,3 +1,7 @@
 # Hello-Git
 Just Test
-No Context
+
+Hi Humans!
+
+I like coding, Do you like too?
+
